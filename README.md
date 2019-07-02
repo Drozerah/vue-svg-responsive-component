@@ -91,6 +91,10 @@ Then go live your `index.html` with your local development server...
 
 That's it!
 
+__Broadcasting__
+
+- This content is [also published on the dev.to network](https://dev.to/drozerah/vue-js-svg-responsive-component-318f)
+
 __Author__
 
 - Thomas G. aka Drozerah - [GitHub](https://github.com/Drozerah)
